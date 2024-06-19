@@ -1,4 +1,5 @@
-![laavaArtboard 1](https://github.com/laava-ai/.github/assets/41921577/64e1ec10-9593-487d-bb33-2c2f0ec2e969)
+
+![laavaArtboard 1](https://github.com/laava-ai/.github/assets/41921577/e8a9347f-274d-4b09-bb11-a683a4726fca)
 
 # Laava
 At Laava, we accelerate innovation with next-gen AI solutions. Our mission is to shape the future by providing advanced AI-driven tools and services tailored to your business needs.
