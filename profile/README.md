@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/5fbfabee-7d54-4817-b2f8-d5ab211d5a53)
-
 # Laava
 
 **Production-grade AI Agents that don't just chat—they execute.**
